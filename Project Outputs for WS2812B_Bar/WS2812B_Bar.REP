@@ -1,0 +1,214 @@
+*************************************************************
+FileName = WS2812B_Bar.GBR
+AutoAperture = True
+*************************************************************
+Generating : Mechanical 15
+      File : WS2812B_Bar.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : WS2812B_Bar.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : WS2812B_Bar.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : WS2812B_Bar.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : WS2812B_Bar.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : WS2812B_Bar.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : WS2812B_Bar.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D24
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : WS2812B_Bar.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : WS2812B_Bar.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : WS2812B_Bar.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D12
+    D13
+    D14
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 5
+      File : WS2812B_Bar.GM5
+
+    Adding Layer      : Mechanical 5
+
+
+Used DCodes :
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : WS2812B_Bar.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : WS2812B_Bar.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : WS2812B_Bar.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D29
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : WS2812B_Bar.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D13
+    D14
+*************************************************************
+
