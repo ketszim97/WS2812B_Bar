@@ -1,0 +1,29 @@
+Source PCB Design WS2812B_Bar_Panel.PcbDoc contains embedded board array. It is recomended to generate individual BOM for each embedded board PCB design.
+
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [WS2812B_Bar.PrjPcb]
+   Generated File[WS2812B_Bar_Panel.GTO]
+   Generated File[WS2812B_Bar_Panel.GTP]
+   Generated File[WS2812B_Bar_Panel.GTS]
+   Generated File[WS2812B_Bar_Panel.GTL]
+   Generated File[WS2812B_Bar_Panel.GBL]
+   Generated File[WS2812B_Bar_Panel.GBS]
+   Generated File[WS2812B_Bar_Panel.GBP]
+   Generated File[WS2812B_Bar_Panel.GBO]
+   Generated File[WS2812B_Bar_Panel.GM1]
+   Generated File[WS2812B_Bar_Panel.GM5]
+   Generated File[WS2812B_Bar_Panel.GM13]
+   Generated File[WS2812B_Bar_Panel.GM15]
+   Generated File[WS2812B_Bar_Panel.GKO]
+   Generated File[WS2812B_Bar_Panel.GPT]
+   Generated File[WS2812B_Bar_Panel.GPB]
+   Generated File[WS2812B_Bar_Panel.RUL]
+   Generated File[WS2812B_Bar_Panel.EXTREP]
+   Generated File[WS2812B_Bar_Panel.REP]
+
+
+Files Generated   : 18
+Documents Printed : 0
+
+Finished Output Generation At 6:56:07 PM On 2020-07-22

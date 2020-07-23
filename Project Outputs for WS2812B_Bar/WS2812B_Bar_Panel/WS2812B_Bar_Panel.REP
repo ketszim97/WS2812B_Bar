@@ -1,0 +1,219 @@
+*************************************************************
+FileName = WS2812B_Bar_Panel.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Pad Master
+      File : WS2812B_Bar_Panel.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : WS2812B_Bar_Panel.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : WS2812B_Bar_Panel.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : WS2812B_Bar_Panel.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D20
+    D21
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : WS2812B_Bar_Panel.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D13
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : WS2812B_Bar_Panel.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : WS2812B_Bar_Panel.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D25
+    D26
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : WS2812B_Bar_Panel.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D28
+    D29
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : WS2812B_Bar_Panel.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : WS2812B_Bar_Panel.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D31
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : WS2812B_Bar_Panel.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 5
+      File : WS2812B_Bar_Panel.GM5
+
+    Adding Layer      : Mechanical 5
+
+
+Used DCodes :
+    D32
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : WS2812B_Bar_Panel.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : WS2812B_Bar_Panel.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : WS2812B_Bar_Panel.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D33
+    D34
+*************************************************************
+
